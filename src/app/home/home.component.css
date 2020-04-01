@@ -1,5 +1,17 @@
 h1 {
     font-weight: 550;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    color: white;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+    color: white;
 }
 
 button {
@@ -15,6 +27,7 @@ button {
     transition: all 0.2s ease-in-out;
     text-align: center;
     align-content: center;
+    font-weight: bolder;
 }
 
 button:before,
