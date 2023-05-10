@@ -30,7 +30,7 @@
     "@nativescript/theme": "~2.2.1",
     "bootstrap": "^4.4.1",
     "core-js": "^2.6.9",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "nativescript-angular": "~8.20.0",
     "reflect-metadata": "~0.1.12",
     "rxjs": "~6.4.0",
